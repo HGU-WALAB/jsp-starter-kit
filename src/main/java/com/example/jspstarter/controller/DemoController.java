@@ -1,4 +1,4 @@
-package com.example.jspboilerplate.controller;
+package com.example.jspstarter.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
