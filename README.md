@@ -6,9 +6,10 @@ This is a starter kit for JSP projects. It includes a basic project structure to
 
 ## What's included?
 
-```shell
+```text
 .
 ├── Dockerfile
+├── LICENSE
 ├── README.md
 ├── mvnw
 ├── mvnw.cmd
