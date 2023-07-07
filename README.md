@@ -66,9 +66,9 @@ The following dependencies are included:
 
 ## How do I use it?
 
-1. Clone this repository.
-2. Run `./mvnw clean package` to build the project.
-3. Check out the server at `http://localhost:8080`.
+1. Download this repository as a ZIP file and extract it.
+2. Open the project and <u>**enable annotation processing**</u>.
+3. Run the project and open `http://localhost:8080` in your browser.
 4. If you can see the message `Welcome to My JSP Page!`, you're good to go!
 5. Modify the project to suit your needs.
 
