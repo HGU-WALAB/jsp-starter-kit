@@ -49,7 +49,7 @@ This is a starter kit for JSP projects. It includes a basic project structure to
 
 The following dependencies are included:
 
-* Spring Boot 3.x: The main framework for simplified Spring-based application development.
+* Spring Boot 2.7.x: The main framework for simplified Spring-based application development.
 * JDBC: Provides JDBC support for database connectivity in Spring Boot.
 * MySQL Driver: The MySQL JDBC driver for connecting to MySQL databases.
 * MyBatis 3: Integration of MyBatis with Spring Boot for SQL mapping and persistence.
@@ -61,7 +61,8 @@ The following dependencies are included:
 
 ## What do I need?
 
-* Java 17: this project based on Spring Boot 3.x, which requires Java 17.
+* Java 8: this project based on Spring Boot 2.7.x, which requires Java 8 or higher. 
+  * See [here](https://docs.spring.io/spring-boot/docs/2.7.13/reference/html/getting-started.html#getting-started.system-requirements) for system requirements.
 * Docker (optional): this will be used to deploy the project.
 
 ## How do I use it?
