@@ -62,6 +62,7 @@ The following dependencies are included:
 ## What do I need?
 
 * Java 17: this project based on Spring Boot 3.x, which requires Java 17.
+  * If you're considering Java 8 or above, you can use [this](https://github.com/HGU-WALAB/jsp-starter-kit/releases/tag/v2.7.x) instead.
 * Docker (optional): this will be used to deploy the project.
 
 ## How do I use it?
